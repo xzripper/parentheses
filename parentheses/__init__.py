@@ -3,7 +3,7 @@
 from re import findall
 
 
-_p_v: str = '1.0.0'
+_p_v: str = '1.0.0-pypi-reupload'
 
 ParenthesesSymbol = str
 
